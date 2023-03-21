@@ -9,7 +9,18 @@ This tool is for extracting live location from mobile number
 6. ls
 7. cd Dark-Watch
 8. ls
-9. pkg install -r requirement.txt
-10. python3 main303404.py
+9. chmod +x *
+10. pkg install -r requirement.txt
+11. python3 main404303.py
+
+
+
+
+
+
+
+
+
+
 
 
