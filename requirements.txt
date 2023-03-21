@@ -1,0 +1,4 @@
+folium==0.14.0
+opencage==2.1.0
+phonenumbers==8.13.7
+pyfiglet==0.8.post1
